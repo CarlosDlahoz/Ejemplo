@@ -1,0 +1,25 @@
+.p1 {
+    margin-right: 20%;
+    margin-left: 10%;
+background-color:rgb(2, 97, 89);
+margin-top: 10%;
+margin-bottom: 10%;
+}
+.p2 {
+    padding-right: 20%;
+    padding-left: 10%;
+    background-color: rgb(2, 97, 89);
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.p3{
+    background-color:  rgb(2, 97, 89);
+}
+.img{
+    justify-content: center;
+    display: flex;
+    padding-right: 3%;
+}
+.img1{
+    padding-left: 3%;
+}
